@@ -10,6 +10,15 @@ This application analyzes the health of Python packages within your GitHub repos
 - **AI-Generated Insights:** Provides tailored suggestions for enhancing repository health, powered by Google's PALM language model.
 - **Package Expert Chat:** Interact with a virtual expert (also powered by PALM) for tailored advice and guidance.
 
+## Demo
+
+[<img src="https://github.com/nikam-shreyas/github-package-health/blob/main/screenshot4.png" width="50%">](https://youtu.be/38v99pKOyAE)
+
+## Screenshots:
+<img src="https://github.com/nikam-shreyas/github-package-health/blob/main/screenshot1.png" width="50%">]
+<img src="https://github.com/nikam-shreyas/github-package-health/blob/main/screenshot3.png" width="50%">]
+<img src="https://github.com/nikam-shreyas/github-package-health/blob/main/screenshot2.png" width="50%">]
+
 ## Getting Started
 
 1. **Backend Setup:**
@@ -26,9 +35,6 @@ This application analyzes the health of Python packages within your GitHub repos
    - Read AI-generated insights for improvement suggestions.
    - Engage in a chat with the Package Expert for further guidance.
 
-## Demo
-
-- Witness the application in action: [demo/demo.MOV]
 
 ## Contributing
 
